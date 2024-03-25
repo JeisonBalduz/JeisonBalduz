@@ -1,4 +1,4 @@
-![](https://github.com/JeisonBalduz/JeisonBalduz/tree/main/banner1.png)
+![](https://github.com/JeisonBalduz/JeisonBalduz/benner1.png)
 
 ### Sobre mí 🙎🏽‍♂️
 Hola!! 👋 mí nombre es **Jeison Balduz**! Es un placer conocerte 😁. Soy desarrollador de aplicaciones web, he demostrado una pasión innata por la tecnología 🖥️ desde temprana edad. A lo largo de mi trayectoria, **me he sumergido en el fascinante mundo del desarrollo de sistemas web** ☁️, adquiriendo conocimientos y habilidades de manera gradual. Mi compromiso es el aprendizaje constante y la exploración dentro de este campo de la tecnología digital 👨‍💻. De esta forma sigo avanzando y **creando soluciones innovadoras en el mundo tecnológico**. 🚀🌎
