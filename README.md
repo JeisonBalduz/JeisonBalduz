@@ -6,11 +6,7 @@ Hola!! 👋 mí nombre es **Jeison Balduz**! Es un placer conocerte 😁. Soy de
 
 Sin más que decir 🌞, **bienvenido a mi repositorio**❗📪 que funciona como un almacén de las habilidades que he adquirido y los proyectos que he realizado a largo de mis estudios 📚 y carrera profesional. ✨💻📈.
 
-## Cualidades
-- [x] #739
-<img src="https://github.com/JeisonBalduz/JeisonBalduz/blob/main/caja.png"> Comunicación efectiva.<br>
-<img src="https://github.com/JeisonBalduz/JeisonBalduz/blob/main/caja.png"> Ética profesional.<br>
-<!--
+
 **JeisonBalduz/JeisonBalduz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
