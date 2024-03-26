@@ -14,4 +14,5 @@ Sin más que decir 🌞, **bienvenido a mi repositorio**❗📪 que funciona com
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![C](https://img.shields.io/badge/C-7052ff?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
 [![ajax](https://img.shields.io/badge/ajax-F7DF1E?style=for-the-badge&logo=ajax&logoColor=white&labelColor=101010)]()
+[![DataTable](https://img.shields.io/badge/DataTable-Data-blue.svg)](https://datatables.net/)
 
