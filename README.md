@@ -13,5 +13,5 @@ Sin más que decir 🌞, **bienvenido a mi repositorio**❗📪 que funciona com
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![C](https://img.shields.io/badge/C-7052ff?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
-[![ajax](https://img.shields.io/badge/ajax-F7DF1E?style=for-the-badge&logo=Ajax&logoColor=white&labelColor=101010)]()
+[![ajax](https://img.shields.io/badge/ajax-F7DF1E?style=for-the-badge&logo=AJAX&logoColor=white&labelColor=101010)]()
 
