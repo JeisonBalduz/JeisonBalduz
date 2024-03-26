@@ -12,7 +12,7 @@ Sin más que decir 🌞, **bienvenido a mi repositorio**❗📪 que funciona com
 [![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![C](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
+[![C](https://img.shields.io/badge/C-7052ff?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
 
 
 ## Librerías
