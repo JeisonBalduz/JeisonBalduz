@@ -8,7 +8,7 @@ Sin más que decir 🌞, **bienvenido a mi repositorio**❗📪 que funciona com
 
 ## Tecnologías
 [![HTML](https://img.shields.io/badge/HTML-fa5f49?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&labelColor=ffffff)]()
+[![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&labelColor=c5c6c8)]()
 [![PHP](https://img.shields.io/badge/PHP-bc98f3?style=for-the-badge&logo=php&labelColor=101010)]()
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=101010)]()
