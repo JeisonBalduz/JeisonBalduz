@@ -7,8 +7,8 @@ Hola!! 👋 mí nombre es **Jeison Balduz**! Es un placer conocerte 😁. Soy de
 Sin más que decir 🌞, **bienvenido a mi repositorio**❗📪 que funciona como un almacén de las habilidades que he adquirido y los proyectos que he realizado a largo de mis estudios 📚 y carrera profesional. ✨💻📈.
 
 ## Tecnologías
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-bc98f3?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-
+<br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 ## Librerías
